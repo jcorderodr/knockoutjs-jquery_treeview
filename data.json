@@ -1,0 +1,104 @@
+[
+  {
+    "Id": null,
+    "Name": "Cities",
+    "Type": 1,
+    "Children": [
+      {
+        "Id": null,
+        "Name": "City One",
+        "Type": 0,
+        "Children": [
+          {
+            "Id": "1",
+            "Name": "Community One",
+            "Type": 1,
+            "Children": null
+          },
+          {
+            "Id": "2",
+            "Name": "COmmunity 2",
+            "Type": 1,
+            "Children": null
+          }
+        ]
+      },
+      {
+        "Id": null,
+        "Name": "City Two",
+        "Type": 0,
+        "Children": null
+      },
+      {
+        "Id": null,
+        "Name": "City Three",
+        "Type": 0,
+        "Children": null
+      }
+    ]
+  },
+  {
+    "Id": null,
+    "Name": "Products",
+    "Type": 5,
+    "Children": [
+      {
+        "Id": null,
+        "Name": "CategoryOne",
+        "Type": 0,
+        "Children": [
+          {
+            "Id": "1",
+            "Name": "Product1",
+            "Type": 5,
+            "Children": null
+          },
+          {
+            "Id": "3",
+            "Name": "Product3",
+            "Type": 5,
+            "Children": null
+          }
+        ]
+      },
+      {
+        "Id": null,
+        "Name": "CategoryTwo",
+        "Type": 0,
+        "Children": [
+          {
+            "Id": "2",
+            "Name": "Product2",
+            "Type": 5,
+            "Children": null
+          },
+          {
+            "Id": "4",
+            "Name": "Product4",
+            "Type": 5,
+            "Children": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": null,
+    "Name": "Channels",
+    "Type": 7,
+    "Children": [
+      {
+        "Id": 2,
+        "Name": "Channel 1",
+        "Type": 0,
+        "Children": null
+      },
+      {
+        "Id": 1,
+        "Name": "Channel 2",
+        "Type": 0,
+        "Children": null
+      }
+    ]
+  }
+]
